@@ -1,0 +1,18 @@
+{
+    "followers": {
+        "total": 102020,
+        "new": 23
+    },
+    "following": {
+        "total": 102020,
+        "new": -4
+    },
+    "tweets": {
+        "total": 102020,
+        "new": 20
+    },
+    "mentions": {
+        "total": 102020,
+        "new": 0
+    }
+}
